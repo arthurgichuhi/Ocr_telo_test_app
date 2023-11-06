@@ -1,16 +1,6 @@
 # ocr_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hello there, if you're on this repository you must be in search of the Optical Character Recognition App.
+You're in the right place, so the code for the app is in this repository, its not under any share license but do what you want with it.
+Anyways for those who just want to test out the app, its not available on any App Store at the moment but I do have an apk for android users,
+to test it out here: https://drive.google.com/file/d/1f4R8ybv_qqAffruO7edYDV_Jg-PW_3OX/view?usp=drive_link 
